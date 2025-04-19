@@ -14,3 +14,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,gmail,ai,pr,py,xd,windows&perline=10)](https://skillicons.dev)
 
+<p align="center">
+  <img src="path_to_your_icon1.png" width="40" height="40" alt="Skill 1"/>
+  <img src="path_to_your_icon2.png" width="40" height="40" alt="Skill 2"/>
+  <!-- 更多图标 -->
+</p>
