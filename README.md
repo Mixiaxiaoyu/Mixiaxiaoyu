@@ -13,7 +13,11 @@
 </p>
 
 
-# 👋  👋
+<div align="center">
+  
+## 
+
+</div>
 <p align="center">
   <img src="icons/ai.png" width="80" height="80" alt="Skill 1"/>
   <img src="icons/ae.png" width="80" height="80" alt="Skill 2"/>
