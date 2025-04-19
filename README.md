@@ -12,5 +12,5 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mixiaxiaoyu&layout=compact&height=170&card_width=420" />
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,gmail,ai,pr,py,xd,windows,flutter&perline=11)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,gmail,ai,pr,py,xd,windows&perline=10)](https://skillicons.dev)
 
