@@ -44,3 +44,9 @@
   <img src="icons/win.png" width="80" height="80" alt="Skill 19"/>
   <img src="icons/yx.png" width="80" height="80" alt="Skill 20"/>
 </p>
+
+<p align="center" style="display: inline-block;">
+  <img src="icons/500-200-1.png" width="500" height="200" alt="Skill 11" style="margin: 0;"/>
+  <img src="icons/500-200.png" width="500" height="200" alt="Skill 11" style="margin: 0;"/>
+</p>
+
