@@ -45,14 +45,8 @@
   <img src="icons/yx.png" width="80" height="80" alt="Skill 20"/>
 </p>
 
-<table border="0" align="center">
-<tr>
-<td>
-  <img src="icons/500-200-1.png" width="500" height="200" alt="Skill 11"/>
-</td>
-<td>
-  <img src="icons/500-200.png" width="500" height="200" alt="Skill 11"/>
-</td>
-</tr>
-</table>
+<p align="center" style="display: inline-block;">
+  <img src="icons/500-200-1.png" width="500" height="200" alt="Skill 11" style="margin: 0;"/>
+  <img src="icons/500-200.png" width="500" height="200" alt="Skill 11" style="margin: 0;"/>
+</p>
 
