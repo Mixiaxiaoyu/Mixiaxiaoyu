@@ -31,7 +31,7 @@
   <img src="icons/css.png" width="80" height="80" alt="Skill 9"/>
   <img src="icons/eagle.png" width="80" height="80" alt="Skill 10"/>
   
- </p>
+</p>
 <p align="center">
 <img src="icons/Figma.png" width="80" height="80" alt="Skill 11"/>
   <img src="icons/html.png" width="80" height="80" alt="Skill 12"/>
@@ -43,4 +43,4 @@
   <img src="icons/vscd.png" width="80" height="80" alt="Skill 18"/>
   <img src="icons/win.png" width="80" height="80" alt="Skill 19"/>
   <img src="icons/yx.png" width="80" height="80" alt="Skill 20"/>
-   </p>
+</p>
