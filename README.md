@@ -1,6 +1,7 @@
 <div align="center">
   
-## 👋 Hi there my mixiaxiaoyu I am a 3D visual artist 👋
+## 👋 Hi there, I'm Mixia Xiaoyu. I'm a 3D artist :art:
+#### :video_game:Visual Design | :triangular_ruler:Graphic Design | :computer: 3D Design 
 
 </div>
 
