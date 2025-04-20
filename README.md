@@ -46,7 +46,7 @@
 </p>
 
 <p align="center" style="display: inline-block;">
-  <img src="icons/500-200-1.png"  alt="Skill 11" style="margin: 0;"/>
-  <img src="icons/500-200.png"  alt="Skill 11" style="margin: 0;"/>
+  <img src="icons/846.png"  alt="Skill 11" style="margin: 0;"/>
+  
 </p>
 
