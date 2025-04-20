@@ -46,8 +46,8 @@
 </p>
 
 <p align="center">
-  <img src="icons/500-200-1.png" width="45%" height="200" alt="Skill 11"/>
+  <img src="icons/500-200-1.png" width="50%" height="50%" alt="Skill 11"/>
   &emsp;
-  <img src="icons/500-200.png" width="45%" height="200" alt="Skill 11"/>
+  <img src="icons/500-200.png" width="50%" height="50%" alt="Skill 11"/>
 </p>
 
