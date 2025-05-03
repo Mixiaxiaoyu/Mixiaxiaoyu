@@ -10,7 +10,7 @@
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Mixiaxiaoyu&show_icons=true&theme=transparent&height=170&card_width=420" />
   &emsp;
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mixiaxiaoyu&layout=compact&height=170" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixiaxiaoyu&layout=compact&langs_count=6" />
 </p>
 
 
